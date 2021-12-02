@@ -12,3 +12,20 @@
 ![Снимок экрана 2021-12-02 в 02 55 58](https://user-images.githubusercontent.com/32986053/144333482-dba74608-8b5e-4be8-b3a9-7b9a3b403034.png)
 ![Снимок экрана 2021-12-02 в 02 56 14](https://user-images.githubusercontent.com/32986053/144333484-552367c4-85aa-4474-8e9a-b144637fe54c.png)
 ![Снимок экрана 2021-12-02 в 02 56 25](https://user-images.githubusercontent.com/32986053/144333489-11e4a79a-08fa-4944-bd6d-4c3fe1f30a41.png)
+
+# Statistics
+
+# DESeq2
+MA-plot | Heatmap
+:-------------------------:|:-------------------------:
+<img width ="400" src = "https://user-images.githubusercontent.com/32986053/144424922-2aaa5798-e4e3-4d0a-bb7e-31ae01a02a8c.png"> | <img width="400" src="https://user-images.githubusercontent.com/32986053/144425993-a6b1b459-b485-4420-af8f-0c8a48b866ac.png">
+
+
+### Гены, которые значимо поменяли свою экспрессию:
+gene 10618 | gene 12125
+:-------------------------:|:-------------------------:
+<img width ="400" src="https://user-images.githubusercontent.com/32986053/144426261-e7746bdf-d340-4785-81e6-da4e436cf510.png"> | <img width ="400" src="https://user-images.githubusercontent.com/32986053/144426426-0e1e7d59-a16c-4f11-9b33-dd35f39db788.png">
+
+gene 20935 | gene 8272
+:-------------------------:|:-------------------------:
+<img width ="400" src="https://user-images.githubusercontent.com/32986053/144426627-f105c150-5831-4386-9f02-020998b22a36.png"> | <img width ="400" src="https://user-images.githubusercontent.com/32986053/144426761-07e150ec-f84e-47aa-8aaf-1061c4b44606.png">
