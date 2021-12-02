@@ -2,6 +2,8 @@
 
 [Часть с питоном](https://colab.research.google.com/drive/1P34mAiQea-kvQarJInzJYYOJahzitvm4?usp=sharing)
 
+[Часть с R](https://colab.research.google.com/drive/1ss1NZw74G0MLVi83SkfEknnRFjmX1V3X?usp=sharing)
+
 # MultiQC
 ![Снимок экрана 2021-12-02 в 02 54 13](https://user-images.githubusercontent.com/32986053/144333429-af938b1a-c56c-44ea-a664-de41b73a1265.png)
 ![Снимок экрана 2021-12-02 в 02 54 24](https://user-images.githubusercontent.com/32986053/144333426-167f28ed-cd13-4d02-89c3-8ea13f99e047.png)
