@@ -1,6 +1,6 @@
 # hse21_hw3
 
-[Часть с питоном](https://colab.research.google.com/drive/1P34mAiQea-kvQarJInzJYYOJahzitvm4?usp=sharing)
+[Часть с питоном](https://colab.research.google.com/drive/1_lo9OeKyq1F_C_EvEM1uOnt2u7MtPJo9?usp=sharing)
 
 [Часть с R](https://colab.research.google.com/drive/1ss1NZw74G0MLVi83SkfEknnRFjmX1V3X?usp=sharing)
 
@@ -16,6 +16,14 @@
 ![Снимок экрана 2021-12-02 в 02 56 25](https://user-images.githubusercontent.com/32986053/144333489-11e4a79a-08fa-4944-bd6d-4c3fe1f30a41.png)
 
 # Statistics
+**ID** | **Type** | **All Reads Number** | **Aligned reads** | **Aligned once** | **Reads on genes**
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+SRR3414629	| reprogramming	| 21106089	| 20510113 | 18375888 | 16049609
+SRR3414630	| reprogramming	| 15244711	| 14832680 | 13186139 | 11465324
+SRR3414631	| reprogramming	| 24244069	| 23547686 | 20928945 | 18408851
+SRR3414635	| control	| 20956475 | 20395865 | 18428317 | 16275997
+SRR3414636	| control	| 20307147 | 19757059 | 17825380 | 15757580
+SRR3414637	| control	| 20385570 | 19847291 | 17844858 | 15736978
 
 # DESeq2
 MA-plot | Heatmap
